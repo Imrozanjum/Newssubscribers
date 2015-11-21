@@ -1,7 +1,9 @@
 Newsletter Subscription (Popup)
 ===============================
 
-This extension will help you to get more orders and more newsletter subscribers.
+Newsletters are important part of marketing. This method is tested and widely used. It will help you to get more orders and newsletter subscribers.
+
+How does it work? This extension shows an one time per customer popup window with newsletter subscription form and suggestions to subscribe and get a free gift coupon for it (e.g. 5 euro.). If customer has a small discount with a coupon there is a better chance he might want to buy more.
 
 Magento versions
 ----------------
